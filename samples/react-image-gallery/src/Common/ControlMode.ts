@@ -4,5 +4,5 @@
 export enum ControlMode {
     Display = 1,
     Edit = 2,
-    New = 3,
+    New = 3
 }

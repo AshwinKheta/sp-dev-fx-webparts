@@ -1,3 +1,2 @@
-
-export { IListService } from "./IListService";
 export { IImage } from './IImage';
+export { IListService } from "./IListService";

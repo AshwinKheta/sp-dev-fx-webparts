@@ -1,11 +1,10 @@
 declare interface IImageGalleryWebPartStrings {
-  PropertyPaneDescription: string;
   BasicGroupName: string;
+  ConfigureWebpartButtonText: string;
   ImageLibraryFieldLabel: string;
   MissingListConfiguration: string;
-  ConfigureWebpartButtonText: string;
+  PropertyPaneDescription: string;
 }
-
 declare module 'ImageGalleryWebPartStrings' {
   const strings: IImageGalleryWebPartStrings;
   export = strings;
